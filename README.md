@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=laravel,flask,flutter,go, python,mysql,postgresql&theme=dark&perline=9" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=go,laravel,flask,flutter,javascript,mysql,postgresql,figma,postman&theme=dark&perline=9" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naxumi&show_icons=true&locale=en&layout=compact" alt="naxumi" /></p>
 
