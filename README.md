@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Backend Developer. Experienced in using Laravel, Flask, Flutter.</h3>
 
 - 👨‍💻 All of my projects are available at [https://hafizhalfurqon.netlify.app/](https://hafizhalfurqon.netlify.app/)
-
+- 🌱 I’m currently learning **Go**
 - 📫 How to reach me **muhammad.hafizhalfurqon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
