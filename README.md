@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hafizh Al Furqon</h1>
-<h3 align="center">Final-year Associate Degree student in Information Technology with strong foundation in backend development using Laravel, Flask, and REST API. Experienced in collaborative projects and mentoring, with a growing portfolio in mobile and web applications. Seeking internship opportunities to deepen backend expertise and contribute to impactful software solutions.</h3>
+<h3 align="center">Aspiring Backend Developer. Experienced in using Laravel, Flask, Flutter.</h3>
 
 - 👨‍💻 All of my projects are available at [https://hafizhalfurqon.netlify.app/](https://hafizhalfurqon.netlify.app/)
 
